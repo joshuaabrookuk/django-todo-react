@@ -1,6 +1,6 @@
-Followed a Django / React tutorial
+Followed a Django / React [tutorial](https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react)
 
-https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react
+You may need to install some dependencies or python3 if not already installed
 
 To run the backend navgate to backend/ and type
 `python3 manage.py runserver`
